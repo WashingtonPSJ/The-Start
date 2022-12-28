@@ -4,5 +4,3 @@ function teste (v1, v2){
 }
 
 teste(2,3);
-
-O que declarada o "s" como variavél é o "let" que vem antes dele
