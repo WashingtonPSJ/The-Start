@@ -1,0 +1,12 @@
+fuction loop (v1; v2) {
+
+if (v1 > v2){
+	for (let s=0; v1>v2; s++){
+	}
+return s
+else (v1 == v2){
+	}
+return v1
+}
+
+loop (6, 12);

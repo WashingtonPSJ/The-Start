@@ -1,1 +1,8 @@
-Olá eu sou o Bakizin seu atendente virtual
+function teste (v1, v2){
+	let s = v1 + v2;
+	return s
+}
+
+teste(2,3);
+
+O que declarada o "s" como variavél é o "let" que vem antes dele
